@@ -1,5 +1,9 @@
 ttt
 ttt
+<<<<<<< HEAD
 ooo
 ggg
+=======
+kkk
+>>>>>>> dev1
 ttt
